@@ -22,7 +22,7 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Thahirah-Razmi=Thahirah-Razmi&show_icons=true&theme=radical)
+![Thahirah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thahirah-Razmi&show_icons=true&theme=radical)
 
 ---
 
