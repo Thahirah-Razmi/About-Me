@@ -15,17 +15,18 @@
 
 ## 🚀 Technologies & Tools
 <div align="center">
+  <!-- First Row -->
   <table>
     <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" />
         <br />
-        <strong>HTML</strong>
+        <strong>HTML5</strong>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" />
         <br />
-        <strong>CSS</strong>
+        <strong>CSS3</strong>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" />
@@ -37,9 +38,15 @@
         <br />
         <strong>JavaScript</strong>
       </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" />
+        <br />
+        <strong>Java</strong>
+      </td>
     </tr>
   </table>
 
+  <!-- Second Row -->
   <table>
     <tr>
       <td align="center">
@@ -70,6 +77,7 @@
     </tr>
   </table>
 
+  <!-- Third Row -->
   <table>
     <tr>
       <td align="center">
@@ -99,7 +107,34 @@
       </td>
     </tr>
   </table>
+
+  <!-- Fourth Row -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" width="50" height="50" />
+        <br />
+        <strong>ASP.NET</strong>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" />
+        <br />
+        <strong>Visual Studio Code</strong>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="50" height="50" />
+        <br />
+        <strong>RStudio</strong>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" />
+        <br />
+        <strong>Git</strong>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
