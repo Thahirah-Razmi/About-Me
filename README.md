@@ -14,7 +14,103 @@
 ---
 
 ## 🔧 Technologies & Tools I Use
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+<div class="tech-stack">
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg" alt="HTML5" />
+        <p>HTML5</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg" alt="CSS3" />
+        <p>CSS3</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/PHP-%238777BB.svg" alt="PHP" />
+        <p>PHP</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg" alt="JavaScript" />
+        <p>JavaScript</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg" alt="C++" />
+        <p>C++</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/C%23-%23239120.svg" alt="C#" />
+        <p>C#</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/SQL-%2307405E.svg" alt="SQL" />
+        <p>SQL</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/MySQL-%2300A4A6.svg" alt="MySQL" />
+        <p>MySQL</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/SQLite-%2307405E.svg" alt="SQLite" />
+        <p>SQLite</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/Python-%2314354C.svg" alt="Python" />
+        <p>Python</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/Microsoft%20SQL-%23000.svg" alt="Microsoft SQL" />
+        <p>Microsoft SQL</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/NetBeans-%23000.svg" alt="NetBeans" />
+        <p>NetBeans</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/Android%20Studio-%23000000.svg" alt="Android Studio" />
+        <p>Android Studio</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/WAMP-%23824483.svg" alt="WAMPServer" />
+        <p>WAMPServer</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg" alt="Visual Studio" />
+        <p>Visual Studio</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg" alt="Visual Studio Code" />
+        <p>Visual Studio Code</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/RStudio-%23451B91.svg" alt="RStudio" />
+        <p>RStudio</p>
+    </div>
+    <div class="tech-item">
+        <img src="https://img.shields.io/badge/Git-%23F05032.svg" alt="Git" />
+        <p>Git</p>
+    </div>
+</div>
+
+<style>
+    .tech-stack {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .tech-item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .tech-item img {
+        width: 50px;
+        height: 50px;
+    }
+    .tech-item p {
+        margin-top: 10px;
+        font-size: 14px;
+        text-align: center;
+    }
+</style>
+
 
 ---
 
