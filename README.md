@@ -21,12 +21,12 @@
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" />
         <br />
-        <strong>HTML5</strong>
+        <strong>HTML</strong>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" />
         <br />
-        <strong>CSS3</strong>
+        <strong>CSS</strong>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" />
