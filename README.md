@@ -159,21 +159,26 @@
 
 ### 📫 Connect with Me
 
-<table>
- <td>
-    <a href="linkedin.com/in/thahirah-razmi" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
-    </a>
-    <br/>
-    <strong>LinkedIn</strong>
- </td>
-    <td>
-    <a href="thahirahrazmi@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="50" alt="Gmail"/>
-    </a>
-    <br/>
-    <strong>Gmail</strong>
-    </td>
-    </table>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/thahirah-razmi" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+          <br/>
+          <strong>LinkedIn</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:thahirahrazmi@gmail.com">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="50" alt="Gmail"/>
+          <br/>
+          <strong>Gmail</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 
