@@ -165,9 +165,7 @@
     </a>
     <br/>
     <strong>LinkedIn</strong>
-  </div>
 
-  <div style="text-align: center; margin: 10px;">
     <a href="thahirahrazmi@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="50" alt="Gmail"/>
     </a>
