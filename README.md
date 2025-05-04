@@ -117,7 +117,7 @@
         <strong>ASP.NET</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50" height="50" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" />
         <br />
         <strong>Visual Studio Code</strong>
       </td>
