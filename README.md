@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Technologies & Tools
-<p align="center">
+<p align="center" style="border: 2px solid #000; padding: 20px; border-radius: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" /> HTML5
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" /> CSS3
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /> JavaScript
@@ -32,7 +32,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" /> Visual Studio Code
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="40" height="40" /> RStudio
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" /> Git
-</p
+</p>
+
 
 ---
 
