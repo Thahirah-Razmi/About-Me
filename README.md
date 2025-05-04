@@ -14,7 +14,7 @@
 ---
 
 ## 🔧 Technologies & Tools I Use
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
 
 ---
 
