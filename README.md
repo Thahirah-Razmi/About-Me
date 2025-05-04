@@ -14,9 +14,7 @@
 ---
 
 ## 🔧 Technologies & Tools I Use
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg) HTML5
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg) CSS3
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg) JavaScript
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg) **HTML5**
 
 
 ---
