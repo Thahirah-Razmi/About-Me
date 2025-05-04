@@ -86,7 +86,7 @@
         <strong>Microsoft SQL</strong>
       </td>
       <td align="center">
-        <img src="https://www.svgrepo.com/show/354106/netbeans.svg" width="50" height="50" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/800px-Apache_NetBeans_Logo.svg.png" width="50" height="50" />
         <br />
         <strong>NetBeans</strong>
       </td>
