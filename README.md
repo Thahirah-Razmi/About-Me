@@ -131,6 +131,11 @@
         <br />
         <strong>Git</strong>
       </td>
+     <td align="center">
+        <img src="https://education.oracle.com/file/general/p-80-java.png" width="50" height="50" />
+        <br />
+        <strong>Java</strong>
+      </td>
     </tr>
   </table>
 </div>
