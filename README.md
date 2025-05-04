@@ -14,6 +14,89 @@
 ---
 
 ## 🚀 Technologies & Tools
+<div align="center" style="border: 2px solid #000; padding: 20px; border-radius: 10px; width: 80%; max-width: 1000px;">
+  <!-- First Row -->
+  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" />
+      <br />
+      <strong>HTML5</strong>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" />
+      <br />
+      <strong>CSS3</strong>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" />
+      <br />
+      <strong>PHP</strong>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" />
+      <br />
+      <strong>JavaScript</strong>
+    </div>
+  </div>
+
+  <!-- Second Row -->
+  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+      <br />
+      <strong>C++</strong>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" />
+      <br />
+      <strong>C#</strong>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" />
+      <br />
+      <strong>Python</strong>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" />
+      <br />
+      <strong>MySQL</strong>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50" height="50" />
+      <br />
+      <strong>SQLite</strong>
+    </div>
+  </div>
+
+  <!-- Third Row -->
+  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" />
+      <br />
+      <strong>Microsoft SQL</strong>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="50" height="50" />
+      <br />
+      <strong>NetBeans</strong>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50" height="50" />
+      <br />
+      <strong>Android Studio</strong>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wamp/wamp-original.svg" width="50" height="50" />
+      <br />
+      <strong>WAMPServer</strong>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" />
+      <br />
+      <strong>Visual Studio</strong>
+    </div>
+  </div>
+</div>
 
 ---
 
