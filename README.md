@@ -86,7 +86,7 @@
         <strong>Microsoft SQL</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="50" height="50" />
+        <img src="https://www.svgrepo.com/show/354106/netbeans.svg" width="50" height="50" />
         <br />
         <strong>NetBeans</strong>
       </td>
@@ -96,7 +96,7 @@
         <strong>Android Studio</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wamp/wamp-original.svg" width="50" height="50" />
+        <img src="https://seeklogo.com/images/W/wamp-logo-3699741F49-seeklogo.com.svg" width="50" height="50" />
         <br />
         <strong>WAMPServer</strong>
       </td>
@@ -112,7 +112,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" width="50" height="50" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50" height="50" />
         <br />
         <strong>ASP.NET</strong>
       </td>
