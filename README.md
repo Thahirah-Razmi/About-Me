@@ -175,4 +175,3 @@
     <strong>Gmail</strong>
   </div>
 
-</div>
