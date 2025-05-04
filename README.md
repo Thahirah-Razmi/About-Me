@@ -1,6 +1,11 @@
+<div align="center">
+
 # Hi, I'm Thahirah! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Thahirah-Razmi&color=blue)
+
+</div>
+
 
 ## 🚀 About Me
  I am an undergraduate Software Engineering student. Having completed my Higher Diploma in Computing and Software Engineering at Cardiff Metropolitan University, I am now preparing to start my Top-Up Degree to further enhance my expertise.
