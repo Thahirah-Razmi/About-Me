@@ -96,7 +96,7 @@
         <strong>Android Studio</strong>
       </td>
       <td align="center">
-        <img src="https://seeklogo.com/images/W/wamp-logo-3699741F49-seeklogo.com.svg" width="50" height="50" />
+        <img src="https://hostingcanada.org/app/uploads/2020/12/WampServer-logo.png" width="50" height="50" />
         <br />
         <strong>WAMPServer</strong>
       </td>
