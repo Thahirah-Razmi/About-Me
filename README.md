@@ -157,16 +157,22 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thahirah-razmi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+### 📫 Connect with Me
+
+  <div style="text-align: center; margin: 10px;">
+    <a href="linkedin.com/in/thahirah-razmi" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+    </a>
     <br/>
     <strong>LinkedIn</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:thahirahrazmi@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="50" alt="Gmail"/>
+  </div>
+
+  <div style="text-align: center; margin: 10px;">
+    <a href="thahirahrazmi@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="50" alt="Gmail"/>
+    </a>
     <br/>
     <strong>Gmail</strong>
-  </a>
-</p>
+  </div>
+
+</div>
