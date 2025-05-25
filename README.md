@@ -7,7 +7,7 @@
 </div>
 
 ## 🚀 About Me
- I am an undergraduate Software Engineering student. Having completed my Higher Diploma in Computing and Software Engineering at Cardiff Metropolitan University, I am now preparing to start my Top-Up Degree to further enhance my expertise.
+I am an undergraduate Software Engineering student currently pursuing my BSc (Hons) in Software Engineering at Cardiff Metropolitan University, having already completed my Higher Diploma in Computing and Software Engineering.
 
 💻 My technical skills span across Web and Mobile Application Development, Database Design and Development, Object-Oriented Programming (OOP), Data Structures and Algorithms, and Service-Oriented Programming. I am passionate about building efficient, scalable, and user-friendly software solutions.
 
